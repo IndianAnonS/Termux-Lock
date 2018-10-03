@@ -1,6 +1,7 @@
 import os
 from getpass import getpass
 os.system("clear")
+print(" ")
 os.system("date")
 print("  ")
 os.system("toilet --metal HackeR")
